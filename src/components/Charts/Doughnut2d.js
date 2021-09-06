@@ -23,7 +23,7 @@ const ChartComponent = ({data}) => {
   const chartConfigs = {
     type: 'doughnut2d', // The chart type
     width: '100%', // Width of the chart
-    height: '350', // Height of the chart
+    height: '400', // Height of the chart
     dataFormat: 'json', // Data type
     theme: 'candy',
     dataSource: {
